@@ -10,7 +10,7 @@ namespace DGIIService.Infrastructure.Persistence
 {
     public static class DapperDbConnectionFactory
     {
-        private static string connectionString = "Data Source=.\\SQL2017;Initial Catalog=DGIISeviceDatabase;Integrated Security=True"; // Configura tu cadena de conexión aquí
+        private static string connectionString = "Data Source=.\\SQL2017;Initial Catalog=DGIISeviceDatabase;Integrated Security=True"; 
 
         public static IDbConnection GetConnection()
         {
