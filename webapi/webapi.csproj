@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\DGIIService.Application\DGIIService.Application.csproj" />
+    <ProjectReference Include="..\DGIIService.Application\DGIIService.Application.csproj" />
   </ItemGroup>
 
 </Project>

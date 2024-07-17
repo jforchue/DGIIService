@@ -19,7 +19,7 @@
   <ItemGroup>
     <ProjectReference Include="..\DGIIService.Application\DGIIService.Application.csproj" />
     <ProjectReference Include="..\DGIIService.Infrastructure\DGIIService.Infrastructure.csproj" />
-    <ProjectReference Include="..\DGIIService\webapi\webapi.csproj" />
+    <ProjectReference Include="..\webapi\webapi.csproj" />
   </ItemGroup>
 
 </Project>
