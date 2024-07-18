@@ -69,7 +69,6 @@
     <RefactorLog Include="DGIISeviceDatabase.refactorlog" />
   </ItemGroup>
   <ItemGroup>
-    <PostDeploy Include="Script.PostDeployment1.sql" />
-    <None Include="Script.PostDeployment2.sql" />
+    <PostDeploy Include="Script.PostDeployment2.sql" />
   </ItemGroup>
 </Project>

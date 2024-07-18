@@ -1,4 +1,4 @@
-﻿USE [DGIISeviceDatabase]
+﻿USE DGIIServicesDb
 
 GO
 
